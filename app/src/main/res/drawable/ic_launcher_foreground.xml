@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Tarjeta de atrás -->
+    <path
+        android:fillColor="#66FFFFFF"
+        android:pathData="M46,30h20a5,5 0 0 1 5,5v34a5,5 0 0 1 -5,5h-20a5,5 0 0 1 -5,-5v-34a5,5 0 0 1 5,-5z" />
+    <!-- Tarjeta del frente -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M40,36h22a5,5 0 0 1 5,5v32a5,5 0 0 1 -5,5h-22a5,5 0 0 1 -5,-5v-32a5,5 0 0 1 5,-5z" />
+    <!-- X -->
+    <path
+        android:strokeColor="#FFFF4F6D"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:pathData="M44,49L58,63M58,49L44,63" />
+</vector>
