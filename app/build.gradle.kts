@@ -12,8 +12,8 @@ android {
         applicationId = "com.limpiador.swipe"
         minSdk = 30          // Android 11 o más nuevo
         targetSdk = 35
-        versionCode = 1
-        versionName = "1.0"
+        versionCode = 2
+        versionName = "1.0.1"
     }
 
     buildTypes {
